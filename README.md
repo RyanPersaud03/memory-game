@@ -10,6 +10,10 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+## Live Link
+
+https://RyanPersaud03.github.io/memory-game/
+
 ## Introduction
 
 Check out this Memory Game! This is a simple and fun web-based game where you can test your memory by matching pairs of cards. The game is built using HTML, CSS, and JavaScript, providing fun game users can play to test their memory.
